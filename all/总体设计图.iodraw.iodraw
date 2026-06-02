@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Tyr5H1bpKZI9ASxekLyn-108" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="380" width="56" height="34" as="geometry" />
+          <mxGeometry x="160" y="650" width="56" height="34" as="geometry" />
         </mxCell>
         <mxCell id="Tyr5H1bpKZI9ASxekLyn-109" value="本地有 Token?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="513" y="464" width="149" height="149" as="geometry" />
+          <mxGeometry x="265" y="510" width="149" height="149" as="geometry" />
         </mxCell>
         <mxCell id="Tyr5H1bpKZI9ASxekLyn-110" value="验证 Token" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="300" y="660" width="139" height="49" as="geometry" />
