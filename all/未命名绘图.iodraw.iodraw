@@ -61,9 +61,11 @@
         <mxCell id="XZbj_hxpffjzmZQXRtm9-19" value="核心业务处理模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1551" y="318" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XZbj_hxpffjzmZQXRtm9-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="XZbj_hxpffjzmZQXRtm9-12" target="XZbj_hxpffjzmZQXRtm9-16">
+        <mxCell id="XZbj_hxpffjzmZQXRtm9-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.607;entryY=0.03;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XZbj_hxpffjzmZQXRtm9-12" target="XZbj_hxpffjzmZQXRtm9-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1352.5" y="160" as="sourcePoint" />
+            <mxPoint x="910" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XZbj_hxpffjzmZQXRtm9-21" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="XZbj_hxpffjzmZQXRtm9-16" target="XZbj_hxpffjzmZQXRtm9-11">
