@@ -49,7 +49,7 @@
         <mxCell id="XZbj_hxpffjzmZQXRtm9-15" value="APP移动端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="XZbj_hxpffjzmZQXRtm9-12">
           <mxGeometry x="426" y="46" width="136" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XZbj_hxpffjzmZQXRtm9-16" value="HTTP/HTTPS REST API" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="XZbj_hxpffjzmZQXRtm9-16" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="563" y="194" width="218" height="49" as="geometry" />
         </mxCell>
         <mxCell id="XZbj_hxpffjzmZQXRtm9-17" value="请求路由分发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -63,7 +63,9 @@
         </mxCell>
         <mxCell id="XZbj_hxpffjzmZQXRtm9-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.607;entryY=0.03;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XZbj_hxpffjzmZQXRtm9-12" target="XZbj_hxpffjzmZQXRtm9-11">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1295" y="210" />
+            </Array>
             <mxPoint x="1352.5" y="160" as="sourcePoint" />
             <mxPoint x="910" y="210" as="targetPoint" />
           </mxGeometry>
