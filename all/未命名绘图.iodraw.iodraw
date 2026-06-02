@@ -49,9 +49,6 @@
         <mxCell id="XZbj_hxpffjzmZQXRtm9-15" value="APP移动端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="XZbj_hxpffjzmZQXRtm9-12">
           <mxGeometry x="426" y="46" width="136" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="XZbj_hxpffjzmZQXRtm9-16" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="563" y="194" width="218" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="XZbj_hxpffjzmZQXRtm9-17" value="请求路由分发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="594" y="318" width="156" height="49" as="geometry" />
         </mxCell>
@@ -68,11 +65,6 @@
             </Array>
             <mxPoint x="1352.5" y="160" as="sourcePoint" />
             <mxPoint x="910" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XZbj_hxpffjzmZQXRtm9-21" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="XZbj_hxpffjzmZQXRtm9-16" target="XZbj_hxpffjzmZQXRtm9-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XZbj_hxpffjzmZQXRtm9-22" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="XZbj_hxpffjzmZQXRtm9-11" target="XZbj_hxpffjzmZQXRtm9-5">
